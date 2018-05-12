@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Adam_Asnyk
     - http://pl.wikipedia.org/wiki/Adam_Asnyk
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27928#Pobudka--zbiorek-poezji
 gutenberg_issued: '2009-01-29'
 gutenberg_type: Text
 identifiers:
